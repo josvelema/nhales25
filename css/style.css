@@ -1,0 +1,22 @@
+body {
+  background-color: #2f2f2f;
+  color: #e0e0e0;
+  text-shadow: 0 1px #000;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container-md {
+  margin-top: 1.5em;
+}
+
+
+p {
+  max-width: 80%;
+}
+
+.stukTekst {
+  display: none;
+}
